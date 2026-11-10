@@ -6,8 +6,14 @@
 
 | Nombre y apellidos | Usuario de GitHub |
 | ------------------ | ----------------- |
+<<<<<<< HEAD
 | Alejandro Pérez     |Alejandro10200                   |
 |                    |                   |
+|                                     |
+=======
+|             |                   |
+|Eduard Alexandru Patrut          |eduardpatrut0-oss                |
+>>>>>>> 4ed34424e5f81542cac440c9deba1e7e1b134333
 |                    |                   |
 |                    |                   |
 |                    |                   |
