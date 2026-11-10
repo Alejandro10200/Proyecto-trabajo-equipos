@@ -6,7 +6,7 @@
 
 | Nombre y apellidos | Usuario de GitHub |
 | ------------------ | ----------------- |
-|                    |                   |
+|  Alejandro Pérez     Alejandro 10200             |                   |
 |                    |                   |
 |                    |                   |
 |                    |                   |
