@@ -7,7 +7,7 @@
 | Nombre y apellidos | Usuario de GitHub |
 | ------------------ | ----------------- |
 |             |                   |
-|                    |                   |
+|Eduard Alexandru Patrut          |eduardpatrut0-oss                |
 |                    |                   |
 |                    |                   |
 |                    |                   |
